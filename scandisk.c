@@ -1,3 +1,12 @@
+/*
+*Emma Stein and Jessica Friedberg
+*Project 5
+*Operating Systems Fall 2014
+*/
+
+
+
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
